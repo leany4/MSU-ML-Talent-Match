@@ -5,12 +5,6 @@ Make a high-quality matching & ranking of applicants' resumes to the specific va
 ✅ **Result:**
 Up to 94% time savings for HR specialists.
 
-# Our team:
-* [Roman Prasad](https://github.com/gblssroman), FA
-* [Solomon Chakaev](https://github.com/veidlink), HSE
-* [Nikita Chuikin](https://github.com/AnalyseOptimize), HSE
-* [Vladislav Taskaev](https://github.com/vladik-pwnz), MADI
-
 # Data:
 We were given two JSON-files (you can find them in our repo):
 
